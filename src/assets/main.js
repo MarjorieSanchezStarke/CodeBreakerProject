@@ -8,5 +8,5 @@ function guess() {
 
 function setHiddenFiels(){  
     var answer = Math.random() * 9999
-    Math.floor(Math.random() * 9999)
+  
 };
