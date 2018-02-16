@@ -7,5 +7,5 @@ function guess() {
 }
 
 function setHiddenFiels(){  
-    var answer = Math.floor(Math.random() * 1000)
+    var answer = Math.floor(Math.random() * 10000)
 };
