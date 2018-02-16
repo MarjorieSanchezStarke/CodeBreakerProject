@@ -6,4 +6,7 @@ function guess() {
     //add functionality to guess function here
 }
 
-//implement new functions here
+function setHiddenFiels(){  
+    var answer = Math.random() * 9999
+    Math.floor(Math.random() * 9999)
+};
