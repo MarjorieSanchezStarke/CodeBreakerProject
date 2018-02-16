@@ -6,6 +6,6 @@ function guess() {
     //add functionality to guess function here
 }
 
-function setHiddenFiels(){  
+function setHiddenFields(){  
     var answer = Math.floor(Math.random() * 10000)
 };
