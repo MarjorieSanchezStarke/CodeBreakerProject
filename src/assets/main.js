@@ -7,5 +7,5 @@ function guess() {
 }
 
 function setHiddenFields(){  
-    var answer = Math.floor(Math.random() * 9999)
+    answer = Math.floor(Math.random() * 9999);
 };
